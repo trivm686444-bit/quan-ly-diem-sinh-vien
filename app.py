@@ -74,3 +74,5 @@ plt.tight_layout()
 st.pyplot(fig)
 
 st.write("---")
+st.markdown("<hr>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: gray; font-size: small;'>Người thực hiện: Vũ Minh Trí- MSSV: 068208006444</p>", unsafe_allow=html=True)
