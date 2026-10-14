@@ -74,4 +74,4 @@ plt.tight_layout()
 st.pyplot(fig)
 
 st.write("---")
-st.caption("Người thực hiện: Vũ Minh Trí - MSSV: 068208006444"
+st.caption("Người thực hiện: Vũ Minh Trí - MSSV: 068208006444")
